@@ -1,0 +1,4 @@
+Sat, 21 Sep 2019 15:05:47-common.RecordLog-ParseConfig.py-[line:27]-INFO-[日志信息]: read file [D:\Users\F9535\PycharmProjects\Interviewproject\config\config.ini] for [URL] failed , did not get the value
+Sat, 21 Sep 2019 15:09:42-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [http://ci.ytesting.com/api/3school] successed! 
+Sat, 21 Sep 2019 15:09:53-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [http://ci.ytesting.com/api/3school] successed! 
+Sat, 21 Sep 2019 15:10:01-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [http://ci.ytesting.com/api/3school] successed! 
