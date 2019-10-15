@@ -100,3 +100,42 @@ Tue, 15 Oct 2019 14:46:38-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志
 Tue, 15 Oct 2019 14:46:38-common.RecordLog-ClassManageApi.py-[line:22]-INFO-[日志信息]: 列出班级：{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
 Tue, 15 Oct 2019 14:46:38-common.RecordLog-ClassManageApi.py-[line:33]-INFO-[日志信息]: 关闭登录请求...
 Tue, 15 Oct 2019 14:46:38-common.RecordLog-SendRequests.py-[line:56]-INFO-[日志信息]: 关闭请求。。。
+Tue, 15 Oct 2019 15:58:58-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 15:58:58-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 15:58:58-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 15:59:26-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 15:59:26-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 15:59:26-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:00:17-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:00:17-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:00:17-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:00:46-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:00:46-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:00:46-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:16:15-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:16:15-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:16:19-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': 2, 'retlist': [{'name': '实验2班', 'grade__name': '八年级', 'invitecode': '2415046368561', 'studentlimit': 30, 'studentnumber': 0, 'id': 241504, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ClassManageApi.py-[line:46]-INFO-[日志信息]: 删除的url：http://ci.ytesting.com/api/3school/school_classes/241504
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ClassManageApi.py-[line:51]-INFO-[日志信息]: 删除成功，放回的结果为<Response [200]>
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-ClassManageApi.py-[line:63]-INFO-[日志信息]: 关闭登录请求...
+Tue, 15 Oct 2019 16:17:04-common.RecordLog-SendRequests.py-[line:56]-INFO-[日志信息]: 关闭请求。。。
+Tue, 15 Oct 2019 16:17:20-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:17:20-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:20-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': None, 'retlist': [{'name': '1班', 'grade__name': '七年级', 'invitecode': '1100235404645', 'studentlimit': 60, 'studentnumber': 1, 'id': 110023, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:17:20-common.RecordLog-ClassManageApi.py-[line:46]-INFO-[日志信息]: 删除的url：http://ci.ytesting.com/api/3school/school_classes/110023
+Tue, 15 Oct 2019 16:17:20-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:24-common.RecordLog-ClassManageApi.py-[line:51]-INFO-[日志信息]: 删除成功，放回的结果为<Response [200]>
+Tue, 15 Oct 2019 16:17:24-common.RecordLog-ClassManageApi.py-[line:63]-INFO-[日志信息]: 关闭登录请求...
+Tue, 15 Oct 2019 16:17:24-common.RecordLog-SendRequests.py-[line:56]-INFO-[日志信息]: 关闭请求。。。
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-SendRequests.py-[line:9]-INFO-[日志信息]: 建立请求...
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ClassManageApi.py-[line:35]-INFO-[日志信息]: 展示出的班级为{'gradeid': None, 'retlist': [{'name': '1班', 'grade__name': '七年级', 'invitecode': '1100235404645', 'studentlimit': 60, 'studentnumber': 1, 'id': 110023, 'teacherlist': []}], 'retcode': 0}
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ClassManageApi.py-[line:46]-INFO-[日志信息]: 删除的url：http://ci.ytesting.com/api/3school/school_classes/110023
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ParseConfig.py-[line:30]-INFO-[日志信息]: read excel value [00000004531799301825] successed! 
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ClassManageApi.py-[line:51]-INFO-[日志信息]: 删除成功，放回的结果为<Response [200]>
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-ClassManageApi.py-[line:63]-INFO-[日志信息]: 关闭登录请求...
+Tue, 15 Oct 2019 16:17:58-common.RecordLog-SendRequests.py-[line:56]-INFO-[日志信息]: 关闭请求。。。
