@@ -1,2 +1,0 @@
-Thu, 10 Oct 2019 10:21:51-common.RecordLog-DataReplace.py-[line:29]-ERROR-[日志信息]: 正则匹配测试数据失败: data '300' must be string
-Thu, 10 Oct 2019 10:22:08-common.RecordLog-DataReplace.py-[line:26]-INFO-[日志信息]: 测试数据{"vcode": "00000004531799301825", "action": "300","grade":1,"name":"实验1班"}通过正则匹配为: {"vcode": "00000004531799301825", "action": "300","grade":1,"name":"实验1班"}

@@ -56,6 +56,7 @@ class ParseConfigFile(object):
 if __name__ == "__main__":
     pc = ParseConfigFile()
     data = pc.getConfValue(CONFIG_PATH,"URL","Host_Url")
-    print(data)
+    ploay = pc.getConfValue(CONFIG_PATH,"ClassSetUp","data")
+    print(type(ploay))
 
 
