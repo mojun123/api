@@ -4,6 +4,12 @@
     <list default="true" id="d9d37a16-4a90-433e-8f97-03643d948580" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/business/TeacherManageApi.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cases/test_TeacherManage_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/2019-10-22testing.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/2019-10-23testing.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-10-23-15-20-57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-10-23-15-30-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-10-23-16-02-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-10-23-17-14-35.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Interviewproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Interviewproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
